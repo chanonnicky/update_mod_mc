@@ -1,0 +1,7 @@
+[MC Server 29-05-2024 Mod Update]
+
+Mods:
+- Remove Living Thing
+- Add Furniture 
+- Add smart dog
+- Update Mod
