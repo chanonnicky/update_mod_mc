@@ -1,4 +1,5 @@
 [MC Server 29-05-2024 Mod Update]
 
 Mods:
-- season
+- beer
+- Glass Clear
